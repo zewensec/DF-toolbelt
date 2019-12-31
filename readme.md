@@ -1,7 +1,8 @@
 The digital forensics toolbelt
 ===
 
-Created by Espen Ringstad aka [@zewensec](https://twitter.com/zewensec  - January 1st 2020
+Created by Espen Ringstad aka [@zewensec](https://twitter.com/zewensec)  - January 1st 2020
+[I'm an inline-style link](https://www.google.com)
 
 --------------------------
 
