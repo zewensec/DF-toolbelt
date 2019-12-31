@@ -15,4 +15,7 @@ sub-categories within DF. Please help me by adding new tools, resources and keep
 ### Open-source Intelligence aka OSINT
 
 
-### 
+### Username search
+
+#### https://usersearch.org/
+##### Reverse username, email or phone number search against 45 popular websites. Includes crypto-users on common platforms and forum searches. 
