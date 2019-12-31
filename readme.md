@@ -23,7 +23,7 @@ sub-categories within DF. Please help me by adding new tools, resources and keep
 
 
 #### https://github.com/sherlock-project/sherlock
-##### Hunt down social media accounts by username across social networks - Requires Python3 
+##### Hunt down social media accounts by username across social networks - Written in Python3 
 
 
 ###
