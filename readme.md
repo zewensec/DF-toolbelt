@@ -65,142 +65,29 @@ sub-categories within DF. Please help me by adding new tools, resources and keep
 ##### Email search based on domain/url - Requires payment for entire email address, but can be useful either way.
 ---------------
 
+### Maps
 
+##### https://liveuamap.com/
+##### News/Event-driven map with a focus on conflicts, human rights issues, protests, terrorism, weapons deployment, health matters, natural disasters, and weather related stories
+---------------
 
-####
+##### http://wikimapia.org/
+##### Category-based map service that will highlight locations based on a category. Includes military installations, factories, hotels etc
+---------------
+
+##### https://www.geocreepy.com/
+##### Offers geolocation information gathering through social networking platforms
+---------------
+
 #####
-
-
-####
 #####
+---------------
 
-####
 #####
-
-
-####
 #####
+---------------
 
-
-####
 #####
-
-
-####
 #####
+---------------
 
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-####
-#####
-
-
-####
-#####
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-####
-#####
-
-
-####
-#####
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
-
-
-####
-#####
