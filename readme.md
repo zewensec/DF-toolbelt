@@ -26,60 +26,171 @@ sub-categories within DF. Please help me by adding new tools, resources and keep
 ##### Hunt down social media accounts by username across social networks - Written in Python3 
 
 
-### https://redditcommentsearch.com/
+#### https://redditcommentsearch.com/
 ##### Reddit comment search
 
 
-### https://instantusername.com/
+#### https://instantusername.com/
 ##### Instant Username Search will check more than 100 social media site
 
 
-### https://namechk.com/
+#### https://namechk.com/
 ##### Check availability of a username 
 
 
-### https://checkusernames.com/
+#### https://checkusernames.com/
 ##### Check the use of your brand or username on 160 Social Networks
 
 
-### https://searchpof.com/
+#### https://searchpof.com/
 ##### Phrase and people/username search
 
-### https://peekyou.com/
+#### https://peekyou.com/
 ##### People search - Americans only
 
 
-### https://hunter.io/
+#### https://hunter.io/
 ##### Email search
 
 
-### https://hunter.io/
+#### https://hunter.io/
 ##### Email search based on domain/url - Requires payment for entire email address, but can be useful either way.
 
 
-###
+####
 #####
 
 
-###
+####
+#####
+
+####
 #####
 
 
-###
+####
 #####
 
 
-###
+####
 #####
 
 
-###
+####
 #####
 
 
-###
+####
 #####
 
 
-###
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+####
+#####
+
+
+####
+#####
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+####
+#####
+
+
+####
+#####
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
+#####
+
+
+####
 #####
