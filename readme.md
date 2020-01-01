@@ -16,7 +16,7 @@ sub-categories within DF. Please help me by adding new tools, resources and keep
 ### Open-source Intelligence
 
 
-### Username search
+### Username/People search
 
 #### https://usersearch.org/
 ##### Reverse username, email or phone number search against 45 popular websites. Includes crypto-users on common platforms and forum searches. 
@@ -49,6 +49,14 @@ sub-categories within DF. Please help me by adding new tools, resources and keep
 ##### People search - Americans only
 
 
+#### https://thatsthem.com/
+#### People search - Americans only
+
+
+#### https://www.zabasearch.com/
+##### People search - Americans only
+
+
 #### https://hunter.io/
 ##### Email search
 
@@ -56,6 +64,8 @@ sub-categories within DF. Please help me by adding new tools, resources and keep
 #### https://hunter.io/
 ##### Email search based on domain/url - Requires payment for entire email address, but can be useful either way.
 
+
+--------------------------
 
 ####
 #####
